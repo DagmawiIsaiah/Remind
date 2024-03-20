@@ -1,0 +1,64 @@
+{
+    "reminders": [
+        {
+            "id": 0,
+            "name": "GF in MEC",
+            "date": "2024-03-10 11:20:24.922218"
+        },
+        {
+            "id": 1,
+            "name": "GP in Selihom",
+            "date": "2024-03-11 11:20:24.922218"
+        },
+        {
+            "id": 2,
+            "name": "Band meeting at zebra",
+            "date": "2024-03-12 11:20:24.922218"
+        },
+        {
+            "id": 3,
+            "name": "GF in MEC",
+            "date": "2024-03-10 11:20:24.922218"
+        },
+        {
+            "id": 4,
+            "name": "GP in Selihom",
+            "date": "2024-03-11 11:20:24.922218"
+        },
+        {
+            "id": 5,
+            "name": "Band meeting at zebra",
+            "date": "2024-03-12 11:20:24.922218"
+        },
+        {
+            "id": 6,
+            "name": "GF in MEC",
+            "date": "2024-03-10 11:20:24.922218"
+        },
+        {
+            "id": 7,
+            "name": "GP in Selihom",
+            "date": "2024-03-11 11:20:24.922218"
+        },
+        {
+            "id": 8,
+            "name": "Band meeting at zebra",
+            "date": "2024-03-12 11:20:24.922218"
+        },
+        {
+            "id": 9,
+            "name": "GF in MEC",
+            "date": "2024-03-10 11:20:24.922218"
+        },
+        {
+            "id": 10,
+            "name": "GP in Selihom",
+            "date": "2024-03-11 11:20:24.922218"
+        },
+        {
+            "id": 11,
+            "name": "Band meeting at zebra",
+            "date": "2024-03-12 11:20:24.922218"
+        }
+    ]
+}
